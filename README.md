@@ -7,3 +7,5 @@ The size of the maze is that of the terminal window so if you want a bigger chal
 The maze is created in a random manner and the creation process is visualised immediately after the game start. This can take a long time for a larger maze but can be toggled off by commenting out lines 36 and 37 in file maze.c. 
 
 Below the maze the current number of moves is displayed as well as the way found by DFS and BFS algorithms (BFS will always show the optimal path, DFS might show a longer path).
+
+![screenshot of the game](/screenshots/smallMaze.png?raw=true "screen1")
